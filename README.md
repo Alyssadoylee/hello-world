@@ -1,2 +1,2 @@
-# hello-world
-How To Conduct an Interview as a Journalist 
+Alyssa Doyle's Guide to Conducting an Interview as a Journalist 
+An Instruction Challenge for JOUR108
